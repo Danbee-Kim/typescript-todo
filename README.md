@@ -5,7 +5,8 @@
 - 타입스크립트는 DOM의 모든 타입 정의를 자동으로 인지한다.
 - lib 프로퍼티를 사용하여 수동으로 컴파일러 옵션 지정 가능
 - getElementById가 반환하는 게 제네릭 HTML요소 또한 null인 것만 인지
-  > Optional Chaining - ?
+
+> Optional Chaining - ?
 - 변수 뒤에 "?"를 붙여 해당 값이 있을 때만 진행
 - 해당 값이 없으면 실행하지 않음
 
